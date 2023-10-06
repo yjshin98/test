@@ -1,0 +1,75 @@
+{
+  "data":[{
+    "id":1,
+    "name":"SMYCKA 스뮈카",
+    "info":"조화, 카네이션/화이트, 30 cm",
+    "price":900,
+    "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-carnation-white__0903135_pe596691_s5.jpg",
+    "category":"flora"
+  },
+  {
+    "id":2,
+    "name":"GLASMAL 글라스말",
+    "info":"유리컵, 혼합 색상, 34 cl",
+    "price":16900,
+    "img":"https://www.ikea.com/kr/ko/images/products/glasmal-glass-mixed-colours__1142482_pe881303_s5.jpg",
+    "category":"kitchen"
+  },
+  {
+    "id":3,
+    "name":"AKTERPORT 악테르포르트",
+    "info":"LED체인조명12등, 배터리식/조약돌 화이트",
+    "price":9900,
+    "img":"https://www.ikea.com/kr/ko/images/products/akterport-led-lighting-chain-with-12-lights-battery-operated-pebbles-white__0997160_pe822621_s5.jpg",
+    "category":"summer"
+  },
+  {
+    "id":4,
+    "name":"FEJKA 페이카",
+    "info":"인조식물, 실내외겸용/장미 핑크, 9 cm",
+    "price":4900,
+    "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-rose-pink__0614177_pe686803_s5.jpg",
+    "category":"flora"
+  },
+  {
+    "id":5,
+    "name":"JÄMLIK 옘리크",
+    "info":"유리컵향초, 바닐라/라이트베이지, 40 시",
+    "price":4500,
+    "img":"https://www.ikea.com/kr/ko/images/products/jaemlik-scented-candle-in-glass-vanilla-light-beige__1096582_pe864466_s5.jpg",
+    "category":"candle"
+  },
+  {
+    "id":6,
+    "name":"SOMMARLÅNKE 솜말롱케",
+    "info":"LED 장식용 탁상스탠드, 실외용 유리용기/배터리식 투명, 15 cm",
+    "price":12900,
+    "img":"https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-outdoor-jar-battery-operated-clear__1149218_pe883914_s5.jpg",
+    "category":"summer"
+  },
+  {
+    "id":7,
+    "name":"ADLAD 아들라드",
+    "info":"유리컵향초, 스칸디나비아 숲/화이트, 20 시",
+    "price":2900,
+    "img":"https://www.ikea.com/kr/ko/images/products/adlad-scented-candle-in-glass-scandinavian-woods-white__1096293_pe864291_s5.jpg",
+    "category":"candle"
+  },
+  {
+    "id":8,
+    "name":"UPPLAGA 우플라가",
+    "info":"접시, 화이트, 28 cm",
+    "price":7900,
+    "img":"https://www.ikea.com/kr/ko/images/products/upplaga-plate-white__0773806_pe756415_s5.jpg",
+    "category":"kitchen"
+  },
+  {
+    "id":9,
+    "name":"SMYCKA 스뮈카",
+    "info":"조화부케, 실내외겸용 그린, 31 cm",
+    "price":3900,
+    "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-in-outdoor-green__0948705_pe799223_s5.jpg",
+    "category":"flora"
+  }
+]
+}
